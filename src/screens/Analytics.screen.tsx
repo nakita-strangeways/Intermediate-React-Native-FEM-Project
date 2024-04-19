@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { FC } from 'react';
 import { Text, View } from 'react-native';
 
-export const Analytics: React.FC = () => {
+export const Analytics: FC = () => {
   return (
     <View>
       <Text>Analytics</Text>
