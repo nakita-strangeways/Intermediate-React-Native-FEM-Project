@@ -4,6 +4,8 @@ export const theme = {
   colorPurple: '#454C73',
   colorWhite: '#fff',
   colorLavender: '#87677B',
+  colorBlue: '#1D84B5',
+  colorGrey: '#8E9AAF',
 
   // for creating contants such as colors, spacing, fonts and any UI elements you tend to use frequently.
   space10: 10,
