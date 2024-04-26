@@ -70,6 +70,32 @@ export const MoodPicker: FC<MoodPickerProps> = ({ handleSelectMood }) => {
 };
 
 const styles = StyleSheet.create({
+  moodText: {
+    fontSize: 24,
+  },
+  moodList: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  moodItem: {
+    width: 60,
+    height: 60,
+    justifyContent: 'center',
+    alignItems: 'center',
+    borderRadius: 30,
+    marginBottom: 5,
+  },
+  selectedMoodItem: {
+    borderWidth: 2,
+    backgroundColor: theme.colorPurple,
+    borderColor: theme.colorWhite,
+  },
+  descriptionText: {
+    color: theme.colorPurple,
+    fontSize: 10,
+    textAlign: 'center',
+    fontFamily: theme.fontFamilyBold,
+  },
   container: {
     borderWidth: 2,
     borderColor: theme.colorPurple,
@@ -80,55 +106,26 @@ const styles = StyleSheet.create({
     height: 230,
     backgroundColor: 'rgba(0,0,0,0.2)',
   },
-  image: {
-    alignSelf: 'center',
-  },
   heading: {
     fontSize: 20,
-    fontWeight: 'bold',
     letterSpacing: 1,
     textAlign: 'center',
-    marginBottom: 20,
     color: theme.colorWhite,
-  },
-  moodList: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    paddingHorizontal: 20,
-  },
-  moodItem: {
-    width: 60,
-    height: 60,
-    justifyContent: 'center',
-    alignItems: 'center',
-    borderRadius: 30,
-    marginBottom: 5,
-  },
-  moodText: {
-    fontSize: 24,
-  },
-  selectedMoodItem: {
-    backgroundColor: theme.colorPurple,
-    borderColor: theme.colorWhite,
-    borderWidth: 2,
-  },
-  descriptionText: {
-    color: theme.colorPurple,
-    fontWeight: 'bold',
-    textAlign: 'center',
-    fontSize: 10,
+    fontFamily: theme.fontFamilyBold,
   },
   button: {
     backgroundColor: theme.colorPurple,
     width: 150,
     borderRadius: 20,
-    marginTop: 20,
     alignSelf: 'center',
     padding: 10,
   },
   buttonText: {
     color: theme.colorWhite,
     textAlign: 'center',
-    fontWeight: 'bold',
+    fontFamily: theme.fontFamilyBold,
+  },
+  image: {
+    alignSelf: 'center',
   },
 });
