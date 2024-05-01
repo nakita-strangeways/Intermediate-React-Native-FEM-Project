@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Intermediate_React_Native.app"
+               BuildableName = "Mood Tracker.app"
                BlueprintName = "Intermediate_React_Native"
                ReferencedContainer = "container:Intermediate_React_Native.xcodeproj">
             </BuildableReference>
@@ -55,7 +55,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Intermediate_React_Native.app"
+            BuildableName = "Mood Tracker.app"
             BlueprintName = "Intermediate_React_Native"
             ReferencedContainer = "container:Intermediate_React_Native.xcodeproj">
          </BuildableReference>
@@ -72,7 +72,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Intermediate_React_Native.app"
+            BuildableName = "Mood Tracker.app"
             BlueprintName = "Intermediate_React_Native"
             ReferencedContainer = "container:Intermediate_React_Native.xcodeproj">
          </BuildableReference>
