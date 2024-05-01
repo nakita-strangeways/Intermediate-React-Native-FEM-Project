@@ -9,10 +9,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-  <a href="https://github.com/nakita-strangeways/FEM_Intermediate_React_Native">
-   <img src="https://github.com/nakita-strangeways/FEM_Intermediate_React_Native/assets/40547453/aaf569ab-33f8-4bc6-a2c0-79f34226470e" alt="Logo" height="400" >
-   <img src="https://github.com/nakita-strangeways/FEM_Intermediate_React_Native/assets/40547453/bce7b3cf-7e0e-4edd-b09b-0e80049296d7" alt="Logo" height="400" >
-   <img src="https://github.com/nakita-strangeways/FEM_Intermediate_React_Native/assets/40547453/49145363-0a93-4d2c-a127-3deb88b2fd30" alt="Logo" height="400" >
+  <a href="https://github.com/nakita-strangeways/Intermediate-React-Native-FEM-Project">
+   <img src="https://github.com/nakita-strangeways/Intermediate-React-Native-FEM-Project/assets/40547453/22ea89f4-a890-47fb-aed1-efff0b749bd5" alt="Logo" height="400" >
+   <img src="https://github.com/nakita-strangeways/Intermediate-React-Native-FEM-Project/assets/40547453/1e56bde4-0e94-4615-9ce4-08386ab01e89" alt="Logo" height="400" >
+   <img src="https://github.com/nakita-strangeways/Intermediate-React-Native-FEM-Project/assets/40547453/b713b3ca-6633-4c05-8b66-2e1be305bf75" alt="Logo" height="400" >
 
 <h3 align="center">Intermediate React Native Project</h3>
   <p align="center">
@@ -160,16 +160,16 @@ To learn more about React Native, take a look at the following resources:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/nakita-strangeways/FEM_Intermediate_React_Native.svg?style=for-the-badge
-[contributors-url]: https://github.com/nakita-strangeways/FEM_Intermediate_React_Native/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/nakita-strangeways/FEM_Intermediate_React_Native.svg?style=for-the-badge
-[forks-url]: https://github.com/nakita-strangeways/FEM_Intermediate_React_Native/network/members
-[stars-shield]: https://img.shields.io/github/stars/nakita-strangeways/FEM_Intermediate_React_Native.svg?style=for-the-badge
-[stars-url]: https://github.com/nakita-strangeways/FEM_Intermediate_React_Native/stargazers
-[issues-shield]: https://img.shields.io/github/issues/nakita-strangeways/FEM_Intermediate_React_Native.svg?style=for-the-badge
-[issues-url]: https://github.com/nakita-strangeways/FEM_Intermediate_React_Native/issues
-[license-shield]: https://img.shields.io/github/license/nakita-strangeways/FEM_Intermediate_React_Native.svg?style=for-the-badge
-[license-url]: https://github.com/nakita-strangeways/FEM_Intermediate_React_Native/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/nakita-strangeways/Intermediate-React-Native-FEM-Project.svg?style=for-the-badge
+[contributors-url]: https://github.com/nakita-strangeways/Intermediate-React-Native-FEM-Project/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/nakita-strangeways/Intermediate-React-Native-FEM-Project.svg?style=for-the-badge
+[forks-url]: https://github.com/nakita-strangeways/Intermediate-React-Native-FEM-Project/network/members
+[stars-shield]: https://img.shields.io/github/stars/nakita-strangeways/Intermediate-React-Native-FEM-Project.svg?style=for-the-badge
+[stars-url]: https://github.com/nakita-strangeways/Intermediate-React-Native-FEM-Project/stargazers
+[issues-shield]: https://img.shields.io/github/issues/nakita-strangeways/Intermediate-React-Native-FEM-Project.svg?style=for-the-badge
+[issues-url]: https://github.com/nakita-strangeways/Intermediate-React-Native-FEM-Project/issues
+[license-shield]: https://img.shields.io/github/license/nakita-strangeways/Intermediate-React-Native-FEM-Project.svg?style=for-the-badge
+[license-url]: https://github.com/nakita-strangeways/Intermediate-React-Native-FEM-Project/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
